@@ -940,12 +940,12 @@
       "group": {
         "_0": {
           "title": "Genres",
-          "tileShape": "poster",
+          "tileShape": "square",
           "contentSources": [
             {
               "id": "27AEEC17-AECC-4C45-8A15-65A88B6F5207",
               "title": "Mystery",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -978,7 +978,7 @@
             {
               "id": "7675E269-450B-415F-8D8A-7D12F2963629",
               "title": "Fantasy / Sci-Fi",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1011,7 +1011,7 @@
             {
               "id": "D130E162-0466-4081-9FC0-D5335B2D54B2",
               "title": "Crime",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1044,7 +1044,7 @@
             {
               "id": "81771D97-9755-413F-9191-B3EB59D8421D",
               "title": "Thriller",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1077,7 +1077,7 @@
             {
               "id": "366C56D1-2042-44B7-9FD9-60313BD3E7F9",
               "title": "Romance",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1110,7 +1110,7 @@
             {
               "id": "F392B193-5410-46E7-92CF-109A07273F06",
               "title": "Family",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1143,7 +1143,7 @@
             {
               "id": "5FBBB8DE-9B83-4264-BA9F-D28D294F0FC2",
               "title": "Animation",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1176,7 +1176,7 @@
             {
               "id": "8029AA0C-158B-401B-ADAA-9BB4753F935B",
               "title": "Reality TV",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1197,7 +1197,7 @@
             {
               "id": "B30F4560-B068-4A5E-90AC-353B1FD43239",
               "title": "Documentary",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1230,7 +1230,7 @@
             {
               "id": "EA7F853D-5870-4701-A712-26C43E31FDB4",
               "title": "History",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1263,7 +1263,7 @@
             {
               "id": "C867A96C-B61D-46DB-9654-5A7A757CF27D",
               "title": "War",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1296,7 +1296,7 @@
             {
               "id": "08C1DE91-068A-4D98-A0B9-30613704F175",
               "title": "Musical",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1317,7 +1317,7 @@
             {
               "id": "A0E87EBB-DECA-404A-896E-F8ED0C23C0CA",
               "title": "Stand-Up Comedy",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1338,7 +1338,7 @@
             {
               "id": "F0AA5FF1-DE8F-457A-83F8-FDBC706BC4C4",
               "title": "Anime",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1371,7 +1371,7 @@
             {
               "id": "CEEEB544-754F-4767-8F65-14A8681AB42A",
               "title": "KDrama",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1404,7 +1404,7 @@
             {
               "id": "A971860A-6BAE-4B8D-A38C-A02DE65CE5E1",
               "title": "Bollywood",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1437,7 +1437,7 @@
             {
               "id": "F8B8464C-3814-4FC5-9440-D5353E282DDC",
               "title": "Austria",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1470,7 +1470,7 @@
             {
               "id": "68E14C44-0497-4C2B-A6F7-32B7F7650FB9",
               "title": "Christmas",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1660,12 +1660,12 @@
       "group": {
         "_0": {
           "title": "Directors",
-          "tileShape": "poster",
+          "tileShape": "square",
           "contentSources": [
             {
               "id": "3263DCA2-C61E-4EC4-BC1D-74D3871869FA",
               "title": "Christopher Nolan",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1686,7 +1686,7 @@
             {
               "id": "883E2FE3-AE87-4A28-8ACD-217930ED2741",
               "title": "Denis Villeneuve",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1707,7 +1707,7 @@
             {
               "id": "8638D5EE-89CD-40A3-B866-9DE4E97E1AA7",
               "title": "Steven Spielberg",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1728,7 +1728,7 @@
             {
               "id": "8F3C27B7-8A8B-453E-A2E4-65D93131E944",
               "title": "David Fincher",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1749,7 +1749,7 @@
             {
               "id": "769400A2-CF58-4340-B36A-6E89ED8AAB78",
               "title": "Quentin Tarantino",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1770,7 +1770,7 @@
             {
               "id": "21230BBC-F5CB-4B74-9F58-D7DFC222181E",
               "title": "Ridley Scott",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1791,7 +1791,7 @@
             {
               "id": "1B14D3D9-A446-43C1-82AE-3CCB93BC3D0F",
               "title": "Greta Gerwig",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1812,7 +1812,7 @@
             {
               "id": "EC0EEABF-A9AD-4080-83F0-EF9F54618493",
               "title": "Martin Scorsese",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1833,7 +1833,7 @@
             {
               "id": "87919A6B-9975-429C-8D9C-C9861571A5FF",
               "title": "James Cameron",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1854,7 +1854,7 @@
             {
               "id": "CB205F52-4A00-4329-92FC-C773FA71B137",
               "title": "Paul Thomas Anderson",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1875,7 +1875,7 @@
             {
               "id": "A3F58878-903B-4E60-9800-B57BF5846F7E",
               "title": "Wes Anderson",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1896,7 +1896,7 @@
             {
               "id": "54387849-64B1-4BE7-A10F-0201B16766A9",
               "title": "Guillermo del Toro",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1917,7 +1917,7 @@
             {
               "id": "C81398BD-662A-4720-A0A0-D839E526ADDB",
               "title": "Peter Jackson",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1938,7 +1938,7 @@
             {
               "id": "13D2CDFE-0689-4593-A0CA-B0124A943618",
               "title": "Spike Lee",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1959,7 +1959,7 @@
             {
               "id": "3F0D96D3-D9C6-4375-88F2-D6362C5B2B7D",
               "title": "Francis Ford Coppola",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -1980,7 +1980,7 @@
             {
               "id": "DA51D55C-6DD0-4740-B25F-6537B4F571D0",
               "title": "David Lynch",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2001,7 +2001,7 @@
             {
               "id": "E458C7C1-BBF3-4478-B8D7-FCFB6CC73C33",
               "title": "Brian De Palma",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2022,7 +2022,7 @@
             {
               "id": "6AF1E6AC-3BD3-4357-8DB2-0ADC2120D95E",
               "title": "John Carpenter",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2043,7 +2043,7 @@
             {
               "id": "3EB6C58C-8943-4D08-BBEE-F6CC5DC31023",
               "title": "Alfred Hitchcock",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2064,7 +2064,7 @@
             {
               "id": "FB7EB3C1-C9A1-4CA9-A6D6-08ADE046FB9B",
               "title": "Stanley Kubrick",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2098,12 +2098,12 @@
       "group": {
         "_0": {
           "title": "Actors",
-          "tileShape": "poster",
+          "tileShape": "square",
           "contentSources": [
             {
               "id": "AA50FCA1-C914-4F17-90FD-86D9FE27F5F7",
               "title": "Robert Downey Jr.",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2136,7 +2136,7 @@
             {
               "id": "96C11946-387D-44AF-99F9-A7D0B43B14CA",
               "title": "Zendaya",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2169,7 +2169,7 @@
             {
               "id": "B71BFD4A-83D4-4FDC-9E68-7D533F713BB5",
               "title": "Tom Holland",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2202,7 +2202,7 @@
             {
               "id": "8E953BDF-E6C9-4DDB-8D94-4CAE854ACB7F",
               "title": "Jenna Ortega",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2235,7 +2235,7 @@
             {
               "id": "99E6DD49-2893-4DCF-91A2-AB9170EA8A33",
               "title": "Dwayne Johnson",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2268,7 +2268,7 @@
             {
               "id": "4D323123-5E0E-4CEC-AF05-EA4B92B13B28",
               "title": "Sydney Sweeney",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2301,7 +2301,7 @@
             {
               "id": "8DEBC9A7-3999-4180-B7E4-7AEDB27D4D6A",
               "title": "Ryan Reynolds",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2322,7 +2322,7 @@
             {
               "id": "1E21F906-9C12-4351-BFD9-837112E3CF06",
               "title": "Margot Robbie",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2355,7 +2355,7 @@
             {
               "id": "18AF32D7-45DC-4FF4-8E85-CB02208B7625",
               "title": "Tom Cruise",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2376,7 +2376,7 @@
             {
               "id": "BF2D770D-7334-4FBA-AD16-A24FC5B09143",
               "title": "Millie Bobby Brown",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2409,7 +2409,7 @@
             {
               "id": "9F9DE8FE-4E8B-4454-AF30-A9384E2DDE95",
               "title": "Timothée Chalamet",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2442,7 +2442,7 @@
             {
               "id": "B022591D-7C0C-4122-860F-A7413E653A57",
               "title": "Emma Stone",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2475,7 +2475,7 @@
             {
               "id": "2E9CE882-C87B-4AC5-991A-250EFB1A3414",
               "title": "Adam Sandler",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2496,7 +2496,7 @@
             {
               "id": "9967AEF4-8BA1-4EEF-B442-31C1B1DA6515",
               "title": "Florence Pugh",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2529,7 +2529,7 @@
             {
               "id": "42B0414B-AB99-476E-9449-49D2C5C8ADB7",
               "title": "Leonardo DiCaprio",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2550,7 +2550,7 @@
             {
               "id": "7C99C37C-C5D3-4DAB-8DB7-CDBF4AFA4552",
               "title": "Jennifer Lawrence",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2571,7 +2571,7 @@
             {
               "id": "0F2DF76F-348E-45CD-AF8D-A42052228070",
               "title": "Brad Pitt",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2592,7 +2592,7 @@
             {
               "id": "E7C7BE73-B4C1-47CF-B195-071BF2302CC9",
               "title": "Anne Hathaway",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2625,7 +2625,7 @@
             {
               "id": "B72C4D32-7883-4D09-93AB-56D5C1A8EFD0",
               "title": "Benedict Cumberbatch",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2658,7 +2658,7 @@
             {
               "id": "ABDCD0BA-8240-407E-9588-E8D5AB148E59",
               "title": "Angelina Jolie",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2679,7 +2679,7 @@
             {
               "id": "4ED306E9-F18A-4BB5-A85E-4379CE71A225",
               "title": "Daniel Craig",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2712,7 +2712,7 @@
             {
               "id": "530EFFFC-E872-448D-BF4E-9205B7CA7657",
               "title": "Jennifer Aniston",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2745,7 +2745,7 @@
             {
               "id": "13E0BE46-EAAF-4737-AC5E-DB3ED168D7A7",
               "title": "Harrison Ford",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2778,7 +2778,7 @@
             {
               "id": "8B9E75E7-9674-41AD-9091-E5870B0D1874",
               "title": "Meryl Streep",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2811,7 +2811,7 @@
             {
               "id": "90397E97-190E-43F2-8B58-7F3A17667C6B",
               "title": "Christian Bale",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2832,7 +2832,7 @@
             {
               "id": "17DD8FC5-6640-4EE2-A9F2-D8FD67A1E09C",
               "title": "Nicole Kidman",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2865,7 +2865,7 @@
             {
               "id": "99E6FE37-8F12-4F3D-9554-24D0CFD9AEF4",
               "title": "George Clooney",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2898,7 +2898,7 @@
             {
               "id": "00713FA8-239F-44BA-BDE2-96A9388E59AE",
               "title": "Reese Witherspoon",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2931,7 +2931,7 @@
             {
               "id": "37C36C75-B0B1-4E9D-800E-1CCA6B6EE56E",
               "title": "Denzel Washington",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2964,7 +2964,7 @@
             {
               "id": "6340330F-4998-4EFF-928B-D884FC775644",
               "title": "Julia Roberts",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -2997,7 +2997,7 @@
             {
               "id": "C6BE4325-326A-4862-8B16-371FDD679B0F",
               "title": "Jack Black",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -3030,7 +3030,7 @@
             {
               "id": "AC751478-A940-476C-AB4C-7E8EC438C49D",
               "title": "Lily Collins",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -3063,7 +3063,7 @@
             {
               "id": "AD98772B-3C0D-48CD-A905-D2E8C2C95C6D",
               "title": "Channing Tatum",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -3096,7 +3096,7 @@
             {
               "id": "749730EB-240C-4AB7-987A-7308BC9F5E1B",
               "title": "Melissa McCarthy",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -3129,7 +3129,7 @@
             {
               "id": "6767B1B4-862E-4E75-9CDD-0137F8CB9D64",
               "title": "Mila Kunis",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -3162,7 +3162,7 @@
             {
               "id": "96A67F0C-6EBC-4F31-8B42-BC6A0EF77009",
               "title": "Jason Statham",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -3183,7 +3183,7 @@
             {
               "id": "220F9DB1-9669-4AA3-83BD-9E94344DAD1D",
               "title": "Steve Carell",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -3216,7 +3216,7 @@
             {
               "id": "A785185B-B624-40BD-8647-96CB2EAF58BA",
               "title": "Sandra Bullock",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -3237,7 +3237,7 @@
             {
               "id": "8AE3831A-C6B5-45BB-8B2E-0F329D1FEBAC",
               "title": "Jim Carrey",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -3270,7 +3270,7 @@
             {
               "id": "9F46B7B1-F75C-4237-A74B-4B6197B39FA5",
               "title": "Katherine Heigl",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -3303,7 +3303,7 @@
             {
               "id": "8EBEAD16-58FF-43B5-B959-3D9E8BCC3F3B",
               "title": "Johnny Depp",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -3336,7 +3336,7 @@
             {
               "id": "08208CF6-EDC8-4728-BC29-558E0B8D8B00",
               "title": "Matt Damon",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -3357,7 +3357,7 @@
             {
               "id": "2DE46BC9-B744-4AB0-AC26-267601129A56",
               "title": "Matthew McConaughey",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -3390,7 +3390,7 @@
             {
               "id": "D95D8F50-0BDD-4AFE-AD35-F179E3ECDB88",
               "title": "Nicolas Cage",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -3423,7 +3423,7 @@
             {
               "id": "6631A049-5BBD-48A6-B37A-5F5041C0DF48",
               "title": "Arnold Schwarzenegger",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -3456,7 +3456,7 @@
             {
               "id": "965597A5-EBC7-498F-A9FA-3217221C824B",
               "title": "Ben Stiller",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -3477,7 +3477,7 @@
             {
               "id": "CB16BE21-BCA2-45AB-85E6-713A70BA782D",
               "title": "Samuel L. Jackson",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -3510,7 +3510,7 @@
             {
               "id": "6F6CBB5E-FCD4-4D83-89C6-4B7CF9DFC16D",
               "title": "Jake Gyllenhaal",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -3531,7 +3531,7 @@
             {
               "id": "EF1B941C-73FA-47A3-9338-4E3F2A93E51C",
               "title": "Seth Rogen",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -3552,7 +3552,7 @@
             {
               "id": "5C3FE71C-26B1-4C0B-A588-828C76BC9BDC",
               "title": "Owen Wilson",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -3573,7 +3573,7 @@
             {
               "id": "B1C7EDFE-4754-4D33-9908-E0F95CC4E0ED",
               "title": "Michael „Bully“ Herbig",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -3606,7 +3606,7 @@
             {
               "id": "443E7A13-0201-4EAB-A89A-781DBEE08046",
               "title": "Morgan Freeman",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -3639,7 +3639,7 @@
             {
               "id": "9F57FD49-0B70-4D53-856D-9EBC4EE554CD",
               "title": "Bill Murray",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -3660,7 +3660,7 @@
             {
               "id": "47368F0D-C2DF-41BE-B368-C01DEA46577A",
               "title": "Jackie Chan",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -3681,7 +3681,7 @@
             {
               "id": "49EBABE3-5D2B-46CB-9A35-039188416C34",
               "title": "Sylvester Stallone",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -3714,7 +3714,7 @@
             {
               "id": "80A18C4C-F254-49E6-B371-78F3932DF95C",
               "title": "Robin Williams",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -3747,7 +3747,7 @@
             {
               "id": "B46C0F16-9D81-4B39-93A7-187F3352B986",
               "title": "Clint Eastwood",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -3780,7 +3780,7 @@
             {
               "id": "D88A10F7-AA5F-4AFB-9BC6-DA50C956458A",
               "title": "Chuck Norris",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
@@ -3813,7 +3813,7 @@
             {
               "id": "B2AACDC6-95C0-4E69-8E71-279E4DA5675E",
               "title": "Jonah Hill",
-              "tileShape": "poster",
+              "tileShape": "square",
               "hideTitle": false,
               "sources": [
                 {
