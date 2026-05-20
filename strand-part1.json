@@ -1,0 +1,3098 @@
+{
+  "version": 1,
+  "shelves": [
+    {
+      "id": "9BBB5864-E357-4D14-B08A-23165E48009E",
+      "title": "Discover",
+      "style": "collections_row",
+      "sortOrder": 0,
+      "isEnabled": true,
+      "source": {
+        "group": {
+          "_0": {
+            "title": "Discover",
+            "tileShape": "wide",
+            "contentSources": [
+              {
+                "id": "0EB4AF99-C704-4BB0-A83A-BD38EFD4DA7B",
+                "title": "Watchlist",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "trakt.watchlist",
+                        "catalogName": "trakt.watchlist"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "trakt.watchlist",
+                        "catalogName": "trakt.watchlist"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/vH9k7TLG/watchlist.png"
+              },
+              {
+                "id": "C5D2E544-8FDE-4F2D-B361-AFF0AD500920",
+                "title": "Trending Movies",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158678",
+                        "catalogName": "mdblist.158678"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/gkHRm77c/trending-movies.png"
+              },
+              {
+                "id": "3F73DD08-7BDC-4756-998D-E8E65F153481",
+                "title": "Trending Shows",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158679",
+                        "catalogName": "mdblist.158679"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/nhVmzk8c/trending-shows.png"
+              },
+              {
+                "id": "0E433AA0-2FE6-4C9F-A0D9-A6AF437B8FC7",
+                "title": "Latest Movies",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158684",
+                        "catalogName": "mdblist.158684"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/sD4SsLLj/latest-movies.png"
+              },
+              {
+                "id": "E0D12094-4E66-4F08-84F0-AF072B8645A9",
+                "title": "Latest Shows",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158790",
+                        "catalogName": "mdblist.158790"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/TYJmfssR/latest-shows.png"
+              },
+              {
+                "id": "03C93C0E-9C51-4EA1-B52D-6E4A7F04F436",
+                "title": "Airing Soon",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159365",
+                        "catalogName": "mdblist.159365"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/CxM81NyV/airing-soon.png"
+              }
+            ],
+            "hideTitle": false
+          }
+        }
+      }
+    },
+    {
+      "id": "0A045845-0945-4C0C-B5BA-D39715ADA385",
+      "title": "Streaming Services",
+      "style": "collections_row",
+      "sortOrder": 1,
+      "isEnabled": true,
+      "source": {
+        "group": {
+          "_0": {
+            "title": "Streaming Services",
+            "tileShape": "wide",
+            "contentSources": [
+              {
+                "id": "80EE8888-BCDC-414D-B2EE-8119DCE64DB9",
+                "title": "Netflix",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158623",
+                        "catalogName": "mdblist.158623"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158622",
+                        "catalogName": "mdblist.158622"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160016",
+                        "catalogName": "mdblist.160016"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160018",
+                        "catalogName": "mdblist.160018"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/3R9D8yrK/netflix.png"
+              },
+              {
+                "id": "F886DE4A-0A11-4358-ADD2-52646653B4BD",
+                "title": "Disney+",
+                "tileShape": "square",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158635",
+                        "catalogName": "mdblist.158635"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158634",
+                        "catalogName": "mdblist.158634"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160024",
+                        "catalogName": "mdblist.160024"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160029",
+                        "catalogName": "mdblist.160029"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/pTknW9VP/disney.png"
+              },
+              {
+                "id": "ECC26A66-BB13-4FBA-89A6-42C63A29F8C2",
+                "title": "Apple TV",
+                "tileShape": "square",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158629",
+                        "catalogName": "mdblist.158629"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158630",
+                        "catalogName": "mdblist.158630"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160030",
+                        "catalogName": "mdblist.160030"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160031",
+                        "catalogName": "mdblist.160031"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/j5vJxWqT/apple-tv.png"
+              },
+              {
+                "id": "93506781-9E61-4BE5-A5FD-B3EFC27783ED",
+                "title": "Prime Video",
+                "tileShape": "square",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158637",
+                        "catalogName": "mdblist.158637"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158636",
+                        "catalogName": "mdblist.158636"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160032",
+                        "catalogName": "mdblist.160032"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160034",
+                        "catalogName": "mdblist.160034"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/JzkSVMTy/prime-video.png"
+              },
+              {
+                "id": "33B6C164-BECA-49C8-AB01-C0E9F1CFBD3C",
+                "title": "HBO Max",
+                "tileShape": "square",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158643",
+                        "catalogName": "mdblist.158643"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158644",
+                        "catalogName": "mdblist.158644"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160035",
+                        "catalogName": "mdblist.160035"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160036",
+                        "catalogName": "mdblist.160036"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/3R9D8yr8/hbo-max.png"
+              },
+              {
+                "id": "638684AB-DE7E-4690-8C00-23254576632C",
+                "title": "Paramount+",
+                "tileShape": "square",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158646",
+                        "catalogName": "mdblist.158646"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158645",
+                        "catalogName": "mdblist.158645"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160038",
+                        "catalogName": "mdblist.160038"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160039",
+                        "catalogName": "mdblist.160039"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/gJ46zwcm/paramount.png"
+              },
+              {
+                "id": "27D7BF28-A119-4029-9A71-34151985C5C7",
+                "title": "Hulu",
+                "tileShape": "square",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158639",
+                        "catalogName": "mdblist.158639"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158640",
+                        "catalogName": "mdblist.158640"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/bNM4BsR1/hulu.png"
+              },
+              {
+                "id": "3C96503F-77E7-40AC-B496-03F882698487",
+                "title": "Peacock",
+                "tileShape": "square",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158647",
+                        "catalogName": "mdblist.158647"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158648",
+                        "catalogName": "mdblist.158648"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/fR91nDHV/peacock.png"
+              },
+              {
+                "id": "12003130-AB1E-4542-BE9B-0525D4C58866",
+                "title": "STARZ",
+                "tileShape": "square",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158650",
+                        "catalogName": "mdblist.158650"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158649",
+                        "catalogName": "mdblist.158649"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/4NZrCrDB/starz.png"
+              },
+              {
+                "id": "59F96F7A-3071-4B0E-91A0-7B86AE65A4C3",
+                "title": "MUBI",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158652",
+                        "catalogName": "mdblist.158652"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158651",
+                        "catalogName": "mdblist.158651"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/26RLyjtL/mubi.png"
+              },
+              {
+                "id": "8E879512-F07F-4D53-B675-EA83EE5FB5D3",
+                "title": "Crunchyroll",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158641",
+                        "catalogName": "mdblist.158641"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158642",
+                        "catalogName": "mdblist.158642"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/Prc0RPMp/crunchyroll.png"
+              },
+              {
+                "id": "B944238E-72D1-4337-9778-2683616E69FD",
+                "title": "The Criterion Channel",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158668",
+                        "catalogName": "mdblist.158668"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158667",
+                        "catalogName": "mdblist.158667"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/KvTrvTfN/criterion-channel.png"
+              },
+              {
+                "id": "5A19F9B8-2B0F-450B-95EB-6C31B7B1FF04",
+                "title": "Shudder",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158654",
+                        "catalogName": "mdblist.158654"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158653",
+                        "catalogName": "mdblist.158653"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/76XTHCPD/shudder.png"
+              },
+              {
+                "id": "1B633514-06F0-403E-A963-0917C760DF39",
+                "title": "AMC+",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158657",
+                        "catalogName": "mdblist.158657"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158656",
+                        "catalogName": "mdblist.158656"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/KctdHZHg/amc.png"
+              },
+              {
+                "id": "1B83D03C-D0CD-45DB-B303-898DA2A3DA8D",
+                "title": "britbox",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158658",
+                        "catalogName": "mdblist.158658"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158659",
+                        "catalogName": "mdblist.158659"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/pX736pBm/britbox.png"
+              },
+              {
+                "id": "687551C2-031E-4D41-9876-09B37BB3C715",
+                "title": "Discovery+",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158665",
+                        "catalogName": "mdblist.158665"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158666",
+                        "catalogName": "mdblist.158666"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/2jnPKzKL/discovery.png"
+              },
+              {
+                "id": "FD2706F6-989D-43E3-A636-D869E12978E7",
+                "title": "Curiosity Stream",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158664",
+                        "catalogName": "mdblist.158664"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158663",
+                        "catalogName": "mdblist.158663"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/RZX6s8cF/curiosity.png"
+              },
+              {
+                "id": "EAF2F475-BC07-4F5D-96F7-B9C9F033484D",
+                "title": "MagellanTV",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158661",
+                        "catalogName": "mdblist.158661"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158660",
+                        "catalogName": "mdblist.158660"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/kMWkpnpx/magellantv.png"
+              },
+              {
+                "id": "C7C0C69A-27C2-481E-9614-BDE0FD135519",
+                "title": "Netflix Kids",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158669",
+                        "catalogName": "mdblist.158669"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158670",
+                        "catalogName": "mdblist.158670"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/fTZ646GC/netflix-kids.png"
+              }
+            ],
+            "hideTitle": false
+          }
+        }
+      }
+    },
+    {
+      "id": "C8CF9197-9AF7-4209-A6B7-E67E3CA4030A",
+      "title": "Genres",
+      "style": "collections_row",
+      "sortOrder": 2,
+      "isEnabled": true,
+      "source": {
+        "group": {
+          "_0": {
+            "title": "Genres",
+            "tileShape": "poster",
+            "contentSources": [
+              {
+                "id": "27AEEC17-AECC-4C45-8A15-65A88B6F5207",
+                "title": "Mystery",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158802",
+                        "catalogName": "mdblist.158802"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158823",
+                        "catalogName": "mdblist.158823"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/0yW6GNym/Mystery.png"
+              },
+              {
+                "id": "7675E269-450B-415F-8D8A-7D12F2963629",
+                "title": "Fantasy / Sci-Fi",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158803",
+                        "catalogName": "mdblist.158803"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158827",
+                        "catalogName": "mdblist.158827"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/598W8k2h/Fantasy-Sci-Fi.png"
+              },
+              {
+                "id": "D130E162-0466-4081-9FC0-D5335B2D54B2",
+                "title": "Crime",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158804",
+                        "catalogName": "mdblist.158804"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158828",
+                        "catalogName": "mdblist.158828"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/FHsdJSNv/Crime.png"
+              },
+              {
+                "id": "81771D97-9755-413F-9191-B3EB59D8421D",
+                "title": "Thriller",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158805",
+                        "catalogName": "mdblist.158805"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158829",
+                        "catalogName": "mdblist.158829"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/t4S1dg4K/Thriller.png"
+              },
+              {
+                "id": "366C56D1-2042-44B7-9FD9-60313BD3E7F9",
+                "title": "Romance",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158806",
+                        "catalogName": "mdblist.158806"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158824",
+                        "catalogName": "mdblist.158824"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/Jz6y3hzv/Romance.png"
+              },
+              {
+                "id": "F392B193-5410-46E7-92CF-109A07273F06",
+                "title": "Family",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158809",
+                        "catalogName": "mdblist.158809"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158831",
+                        "catalogName": "mdblist.158831"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/zGXbRh8V/Family.png"
+              },
+              {
+                "id": "5FBBB8DE-9B83-4264-BA9F-D28D294F0FC2",
+                "title": "Animation",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158811",
+                        "catalogName": "mdblist.158811"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158834",
+                        "catalogName": "mdblist.158834"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/rF9Rmj6P/Animation.png"
+              },
+              {
+                "id": "8029AA0C-158B-401B-ADAA-9BB4753F935B",
+                "title": "Reality TV",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160049",
+                        "catalogName": "mdblist.160049"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/fR237bRP/Reality-TV.png"
+              },
+              {
+                "id": "B30F4560-B068-4A5E-90AC-353B1FD43239",
+                "title": "Documentary",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158813",
+                        "catalogName": "mdblist.158813"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158836",
+                        "catalogName": "mdblist.158836"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/dVtkTCw0/Documentary.png"
+              },
+              {
+                "id": "EA7F853D-5870-4701-A712-26C43E31FDB4",
+                "title": "History",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158814",
+                        "catalogName": "mdblist.158814"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158837",
+                        "catalogName": "mdblist.158837"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/CxPZCKxR/History.png"
+              },
+              {
+                "id": "C867A96C-B61D-46DB-9654-5A7A757CF27D",
+                "title": "War",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158815",
+                        "catalogName": "mdblist.158815"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158838",
+                        "catalogName": "mdblist.158838"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/s2MMTRM8/War.png"
+              },
+              {
+                "id": "08C1DE91-068A-4D98-A0B9-30613704F175",
+                "title": "Musical",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158816",
+                        "catalogName": "mdblist.158816"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/527H5t28/Music.png"
+              },
+              {
+                "id": "A0E87EBB-DECA-404A-896E-F8ED0C23C0CA",
+                "title": "Stand-Up Comedy",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159674",
+                        "catalogName": "mdblist.159674"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/htyJ8GtN/Stand-Up-Comedy.png"
+              },
+              {
+                "id": "F0AA5FF1-DE8F-457A-83F8-FDBC706BC4C4",
+                "title": "Anime",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158840",
+                        "catalogName": "mdblist.158840"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158817",
+                        "catalogName": "mdblist.158817"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/xTPNC5rZ/Anime.png"
+              },
+              {
+                "id": "CEEEB544-754F-4767-8F65-14A8681AB42A",
+                "title": "KDrama",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158818",
+                        "catalogName": "mdblist.158818"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158841",
+                        "catalogName": "mdblist.158841"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/qB2H2Z7f/KDrama.png"
+              },
+              {
+                "id": "A971860A-6BAE-4B8D-A38C-A02DE65CE5E1",
+                "title": "Bollywood",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158819",
+                        "catalogName": "mdblist.158819"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158842",
+                        "catalogName": "mdblist.158842"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/Nfx2MDqG/Bollywood.png"
+              },
+              {
+                "id": "F8B8464C-3814-4FC5-9440-D5353E282DDC",
+                "title": "Austria",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159308",
+                        "catalogName": "mdblist.159308"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159309",
+                        "catalogName": "mdblist.159309"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/zXkHB7Z5/Austria.png"
+              },
+              {
+                "id": "68E14C44-0497-4C2B-A6F7-32B7F7650FB9",
+                "title": "Christmas",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159798",
+                        "catalogName": "mdblist.159798"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159802",
+                        "catalogName": "mdblist.159802"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/bNRSJgcw/Christmas.png"
+              }
+            ],
+            "hideTitle": false
+          }
+        }
+      }
+    },
+    {
+      "id": "1E26BF4C-7841-48BD-B95D-1D15DD5F31B6",
+      "title": "Film Decades",
+      "style": "collections_row",
+      "sortOrder": 3,
+      "isEnabled": true,
+      "source": {
+        "group": {
+          "_0": {
+            "title": "Film Decades",
+            "tileShape": "wide",
+            "contentSources": [
+              {
+                "id": "86DC8678-B8E1-4C6E-9540-02D4284A021D",
+                "title": "20s Movies",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158796",
+                        "catalogName": "mdblist.158796"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/L5jnk6gT/20s.png"
+              },
+              {
+                "id": "9E7506A8-E397-4C27-A078-139892831F1B",
+                "title": "10s Movies",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158791",
+                        "catalogName": "mdblist.158791"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/br1s0NSR/10s.png"
+              },
+              {
+                "id": "499261D8-872A-4388-B4D1-DF2A406B24FE",
+                "title": "00s Movies",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158792",
+                        "catalogName": "mdblist.158792"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/RhwN1VJK/00s.png"
+              },
+              {
+                "id": "2FF6EF91-3748-4D9D-947F-1E084FAED8B8",
+                "title": "90s Movies",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158793",
+                        "catalogName": "mdblist.158793"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/J7XDCKYH/90s.png"
+              },
+              {
+                "id": "B419281C-FDC3-479A-9F0E-D02D692F7081",
+                "title": "80s Movies",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158794",
+                        "catalogName": "mdblist.158794"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/qBKhHQDz/80s.png"
+              },
+              {
+                "id": "DF1374C5-F561-4BCB-ABEE-36BDB01CAC9A",
+                "title": "70s Movies",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.158795",
+                        "catalogName": "mdblist.158795"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/VvXd9L0j/70s.png"
+              }
+            ],
+            "hideTitle": false
+          }
+        }
+      }
+    },
+    {
+      "id": "9D43D8DD-BC08-441B-A7C9-9D3979D39E0F",
+      "title": "Directors",
+      "style": "collections_row",
+      "sortOrder": 4,
+      "isEnabled": true,
+      "source": {
+        "group": {
+          "_0": {
+            "title": "Directors",
+            "tileShape": "poster",
+            "contentSources": [
+              {
+                "id": "3263DCA2-C61E-4EC4-BC1D-74D3871869FA",
+                "title": "Christopher Nolan",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159441",
+                        "catalogName": "mdblist.159441"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/L8mFLjVG/Christopher-Nolan.jpg"
+              },
+              {
+                "id": "883E2FE3-AE87-4A28-8ACD-217930ED2741",
+                "title": "Denis Villeneuve",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159458",
+                        "catalogName": "mdblist.159458"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/rwq2x5J6/Denis-Villeneuve.jpg"
+              },
+              {
+                "id": "8638D5EE-89CD-40A3-B866-9DE4E97E1AA7",
+                "title": "Steven Spielberg",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159455",
+                        "catalogName": "mdblist.159455"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/QdSGbV4j/Steven-Spielberg.jpg"
+              },
+              {
+                "id": "8F3C27B7-8A8B-453E-A2E4-65D93131E944",
+                "title": "David Fincher",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159463",
+                        "catalogName": "mdblist.159463"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/Z5Jzp6Lg/David-Fincher.jpg"
+              },
+              {
+                "id": "769400A2-CF58-4340-B36A-6E89ED8AAB78",
+                "title": "Quentin Tarantino",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159453",
+                        "catalogName": "mdblist.159453"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/mgTWC7wk/Quentin-Tarantino.jpg"
+              },
+              {
+                "id": "21230BBC-F5CB-4B74-9F58-D7DFC222181E",
+                "title": "Ridley Scott",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159454",
+                        "catalogName": "mdblist.159454"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/GmbnGvQH/Ridley-Scott.jpg"
+              },
+              {
+                "id": "1B14D3D9-A446-43C1-82AE-3CCB93BC3D0F",
+                "title": "Greta Gerwig",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159472",
+                        "catalogName": "mdblist.159472"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/MpzJV1D8/Greta-Gerwig.jpg"
+              },
+              {
+                "id": "EC0EEABF-A9AD-4080-83F0-EF9F54618493",
+                "title": "Martin Scorsese",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159467",
+                        "catalogName": "mdblist.159467"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/kg7PKWcX/Martin-Scorsese.jpg"
+              },
+              {
+                "id": "87919A6B-9975-429C-8D9C-C9861571A5FF",
+                "title": "James Cameron",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159456",
+                        "catalogName": "mdblist.159456"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/YCtBYQ3p/James-Cameron.jpg"
+              },
+              {
+                "id": "CB205F52-4A00-4329-92FC-C773FA71B137",
+                "title": "Paul Thomas Anderson",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159464",
+                        "catalogName": "mdblist.159464"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/JzRCZjqn/Paul-Thomas-Anderson.jpg"
+              },
+              {
+                "id": "A3F58878-903B-4E60-9800-B57BF5846F7E",
+                "title": "Wes Anderson",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159471",
+                        "catalogName": "mdblist.159471"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/BnN9gtYQ/Wes-Anderson.jpg"
+              },
+              {
+                "id": "54387849-64B1-4BE7-A10F-0201B16766A9",
+                "title": "Guillermo del Toro",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159466",
+                        "catalogName": "mdblist.159466"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/8zTgMLHT/Guillermo-del-Toro.jpg"
+              },
+              {
+                "id": "C81398BD-662A-4720-A0A0-D839E526ADDB",
+                "title": "Peter Jackson",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159468",
+                        "catalogName": "mdblist.159468"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/8zTgMLHs/Peter-Jackson.jpg"
+              },
+              {
+                "id": "13D2CDFE-0689-4593-A0CA-B0124A943618",
+                "title": "Spike Lee",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159452",
+                        "catalogName": "mdblist.159452"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/RZG5Rqs4/Spike-Lee.jpg"
+              },
+              {
+                "id": "3F0D96D3-D9C6-4375-88F2-D6362C5B2B7D",
+                "title": "Francis Ford Coppola",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159465",
+                        "catalogName": "mdblist.159465"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/T3Tvgn9v/Francis-Ford-Coppola.jpg"
+              },
+              {
+                "id": "DA51D55C-6DD0-4740-B25F-6537B4F571D0",
+                "title": "David Lynch",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159451",
+                        "catalogName": "mdblist.159451"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/3x3Qm2B5/David-Lynch.jpg"
+              },
+              {
+                "id": "E458C7C1-BBF3-4478-B8D7-FCFB6CC73C33",
+                "title": "Brian De Palma",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159449",
+                        "catalogName": "mdblist.159449"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/Cxwpkb42/Brian-De-Palma.jpg"
+              },
+              {
+                "id": "6AF1E6AC-3BD3-4357-8DB2-0ADC2120D95E",
+                "title": "John Carpenter",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159457",
+                        "catalogName": "mdblist.159457"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/jSRYPyXx/John-Carpenter.jpg"
+              },
+              {
+                "id": "3EB6C58C-8943-4D08-BBEE-F6CC5DC31023",
+                "title": "Alfred Hitchcock",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159462",
+                        "catalogName": "mdblist.159462"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/HkT1XbtR/Alfred-Hitchcock.jpg"
+              },
+              {
+                "id": "FB7EB3C1-C9A1-4CA9-A6D6-08ADE046FB9B",
+                "title": "Stanley Kubrick",
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159469",
+                        "catalogName": "mdblist.159469"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/Z5Jzp6c9/Stanley-Kubrick.jpg"
+              }
+            ],
+            "hideTitle": false
+          }
+        }
+      }
+    },
+    {
+      "id": "808C0566-4771-45CA-9A8C-7CAB935A0F17",
+      "title": "Film Studios",
+      "style": "collections_row",
+      "sortOrder": 6,
+      "isEnabled": true,
+      "source": {
+        "group": {
+          "_0": {
+            "title": "Film Studios",
+            "tileShape": "wide",
+            "contentSources": [
+              {
+                "id": "3EE53A2B-A510-4D5E-84CA-D33585D9612C",
+                "title": "Warner Bros. Pictures",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159685",
+                        "catalogName": "mdblist.159685"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/65B5yJLY/warner-bros.png"
+              },
+              {
+                "id": "F37A9775-4CAD-41D1-9518-F0B8F3056CBB",
+                "title": "Universal Pictures",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159686",
+                        "catalogName": "mdblist.159686"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/TYTYpMq9/universal.png"
+              },
+              {
+                "id": "DEA869AD-9012-4A52-8F16-6142FB678561",
+                "title": "Paramount Pictures",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159687",
+                        "catalogName": "mdblist.159687"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/VLzLdQBX/paramount.png"
+              },
+              {
+                "id": "10E7C27D-81DB-4381-8645-DEB104B6B4CA",
+                "title": "A24",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159693",
+                        "catalogName": "mdblist.159693"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/WpG1Nbr1/a24.png"
+              },
+              {
+                "id": "F0FF9A53-3D72-444E-9512-F797FAECC7FE",
+                "title": "Metro-Goldwyn-Mayer",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159684",
+                        "catalogName": "mdblist.159684"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/0yNF111W/mgm.png"
+              },
+              {
+                "id": "9DFE63F9-E566-4423-AEE2-162B20E59BCA",
+                "title": "20th Century Studios",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159689",
+                        "catalogName": "mdblist.159689"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/QNQd8x5t/20th-century.png"
+              },
+              {
+                "id": "EBB7EA33-24A7-47E3-8767-0C4F85D4EF8A",
+                "title": "Columbia Pictures",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159688",
+                        "catalogName": "mdblist.159688"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/dQ2Vstd3/columbia.png"
+              },
+              {
+                "id": "706E6F36-B049-478E-9B0A-1D3EF66D197C",
+                "title": "Walt Disney Animation Studio",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159700",
+                        "catalogName": "mdblist.159700"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/tR34qCP6/disney.png"
+              },
+              {
+                "id": "3EF924AD-8363-4AEA-93B4-E65C852CA1E7",
+                "title": "DreamWorks Animation",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159680",
+                        "catalogName": "mdblist.159680"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/WpG1Nbrg/dreamworks.png"
+              },
+              {
+                "id": "3C741C8D-3CFA-4DA1-8507-CC1CF09F7648",
+                "title": "Pixar Animation Studios",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159678",
+                        "catalogName": "mdblist.159678"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/SNmNJF7W/pixar.png"
+              },
+              {
+                "id": "84FC36CD-70FC-46F0-AA0A-D35543E72DCB",
+                "title": "Illumination",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159699",
+                        "catalogName": "mdblist.159699"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/bYxwyNbb/illumination.png"
+              },
+              {
+                "id": "007188BC-3E29-4501-A490-90310A5B68AB",
+                "title": "Marvel Studios",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159690",
+                        "catalogName": "mdblist.159690"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/CLwLzTHR/marvel.png"
+              },
+              {
+                "id": "D9AF445F-CD4E-4212-954B-4797E69581B3",
+                "title": "Lucasfilm",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159677",
+                        "catalogName": "mdblist.159677"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/J7Nzr4J3/lucasfilm.png"
+              },
+              {
+                "id": "FE951F6C-1FB6-4D8A-B898-F80C9294DC6D",
+                "title": "New Line Cinema",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159691",
+                        "catalogName": "mdblist.159691"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/0292bRdw/new-line-cinema.png"
+              },
+              {
+                "id": "D0BEA179-1F65-43CD-BE46-D3D2750299B5",
+                "title": "Miramax",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159695",
+                        "catalogName": "mdblist.159695"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/ZKJKCtFB/miramax.png"
+              },
+              {
+                "id": "085F7C00-D69B-430E-8EDF-1935C9606FF4",
+                "title": "Searchlight Pictures",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159696",
+                        "catalogName": "mdblist.159696"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/xT9TcDyv/searchlight.png"
+              },
+              {
+                "id": "3E142886-EE57-4938-BA49-03CCE857C864",
+                "title": "Touchstone Pictures",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159698",
+                        "catalogName": "mdblist.159698"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/PrdrPszb/touchstone.png"
+              },
+              {
+                "id": "28080741-29D7-4C40-9DF4-57EEE7CE3166",
+                "title": "TriStar Pictures",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159697",
+                        "catalogName": "mdblist.159697"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/9FcFr5tb/tristar.png"
+              },
+              {
+                "id": "5137D9DF-5FDE-44B6-A55F-ADA81B8E7154",
+                "title": "Lionsgate",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159692",
+                        "catalogName": "mdblist.159692"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/c1RLx4Yf/lionsgate.png"
+              },
+              {
+                "id": "E247528E-F751-4439-931C-75E79E9002B6",
+                "title": "Studio Ghibli",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159694",
+                        "catalogName": "mdblist.159694"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/tR34qCP1/Bild.png"
+              }
+            ],
+            "hideTitle": false
+          }
+        }
+      }
+    },
+    {
+      "id": "EB6A3BBE-CB8B-410B-BDA3-C7C40F84E94F",
+      "title": "Awards",
+      "style": "collections_row",
+      "sortOrder": 7,
+      "isEnabled": true,
+      "source": {
+        "group": {
+          "_0": {
+            "title": "Awards",
+            "tileShape": "wide",
+            "contentSources": [
+              {
+                "id": "8F19D361-AD14-4FD8-A759-D76AABB0FBC1",
+                "title": "Academy Awards",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159414",
+                        "catalogName": "mdblist.159414"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/fb4dMhv2/academy-awards.png"
+              },
+              {
+                "id": "3936504D-E18B-42DC-A77A-2D1FA4AD7B5B",
+                "title": "Academy Awards: Best Picture",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159412",
+                        "catalogName": "mdblist.159412"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/YScFtwxV/best-picture.png"
+              },
+              {
+                "id": "F2C5F1A2-8D50-4E88-868F-F77B8E9D3B3B",
+                "title": "Primetime Emmy Awards",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159408",
+                        "catalogName": "mdblist.159408"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/jjz75k8Z/emmys.png"
+              },
+              {
+                "id": "2613A9ED-665D-45A0-A3F9-58FEB91A13E1",
+                "title": "Golden Globe Awards",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.159385",
+                        "catalogName": "mdblist.159385"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/k5xb4hjY/golden-globes.png"
+              },
+              {
+                "id": "7352618F-89A1-46C1-BA67-003147A0D508",
+                "title": "BAFTA Film Awards",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160235",
+                        "catalogName": "mdblist.160235"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/131RtRL3/bafta.png"
+              },
+              {
+                "id": "28D5E267-7678-43BB-BEFD-26C1D6C5E22E",
+                "title": "Cannes Film Festival Awards",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160006",
+                        "catalogName": "mdblist.160006"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/cJq3dNc2/cannes.png"
+              },
+              {
+                "id": "7570602E-F3F3-47E7-A0B2-229582FF622A",
+                "title": "Venice Film Festival Awards",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160239",
+                        "catalogName": "mdblist.160239"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/wBhmvbWb/venice.png"
+              },
+              {
+                "id": "74B0C84C-8598-4143-980E-7904E5B7B014",
+                "title": "Berlin International Film Festival Awards",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160238",
+                        "catalogName": "mdblist.160238"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/hGFmKq0N/berlinale.png"
+              }
+            ],
+            "hideTitle": false
+          }
+        }
+      }
+    },
+    {
+      "id": "05E4CB79-8AD2-44B1-A876-891746AC54B0",
+      "title": "Lists",
+      "style": "collections_row",
+      "sortOrder": 9,
+      "isEnabled": true,
+      "source": {
+        "group": {
+          "_0": {
+            "title": "Lists",
+            "tileShape": "wide",
+            "contentSources": [
+              {
+                "id": "00A4A9A7-2DF5-4F2A-8184-2CE1F7742350",
+                "title": "Metacritic's Must See",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160245",
+                        "catalogName": "mdblist.160245"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/d1YfcYSz/Metacritics-Must-See.png"
+              },
+              {
+                "id": "70EE9301-81DF-49D6-8CD4-7A5BCD03D840",
+                "title": "Certified Fresh Releases",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160243",
+                        "catalogName": "mdblist.160243"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/9MhkHhNg/Certified-Fresh-Releases.png"
+              },
+              {
+                "id": "79B1A511-0EC9-45F4-94CE-A5794A392636",
+                "title": "1001 Movies You Must See",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160257",
+                        "catalogName": "mdblist.160257"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/D0Zvt6mz/001-Movies-You-Must-see-before-you-die-landscape.png"
+              },
+              {
+                "id": "B5867991-2948-4397-AFD1-A6ADD08471A4",
+                "title": "Movies Everyone Should Watch",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160272",
+                        "catalogName": "mdblist.160272"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/zBs5HBp5/Movies-Everyone-Should-Watch-Once-in-Their-Lifetime.png"
+              },
+              {
+                "id": "114D10E8-A225-4468-9137-91DC7CEA203E",
+                "title": "Letterboxd's Top 500",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160274",
+                        "catalogName": "mdblist.160274"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/vBsKwsSK/Letterboxd-Top-500.png"
+              },
+              {
+                "id": "8A9B6841-B836-4FA0-BB4D-BB47288CE662",
+                "title": "Top 100 of the 21st Century",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160269",
+                        "catalogName": "mdblist.160269"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/qRTFHT5p/New-York-Times-Best--100_Best_Movies_of_the_21st_CenturyMovies.png"
+              },
+              {
+                "id": "18979B4C-F57A-45ED-856B-08CC855A5873",
+                "title": "Mindgame Movies",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160054",
+                        "catalogName": "mdblist.160054"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/MTSLJSFk/Mindgame-Movies.png"
+              },
+              {
+                "id": "2371BBCD-F7B6-44FB-87FF-C548FB47FFCC",
+                "title": "The Billion-Dollar Club",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160241",
+                        "catalogName": "mdblist.160241"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/C1g2pgQF/The-Billion-Dollar-Club.png"
+              },
+              {
+                "id": "877A84A3-9917-4167-9D8A-55AD972F2267",
+                "title": "Echoes of Reality",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160271",
+                        "catalogName": "mdblist.160271"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/DZTN3TYY/Echoes-of-Reality.png"
+              },
+              {
+                "id": "12890BB6-908B-4D40-BEB1-FEA2758C07FB",
+                "title": "Pure WTF",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160266",
+                        "catalogName": "mdblist.160266"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/G2CfnC5w/Movie-That-Make-You-Say-WTF.png"
+              },
+              {
+                "id": "DD4D94CA-8631-4299-B9DE-AAB94AA51D30",
+                "title": "Movies That Leave You Changed",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160267",
+                        "catalogName": "mdblist.160267"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/85SYgS0G/Movies-That-Leave-You-Changed.png"
+              },
+              {
+                "id": "DA6C5489-04E5-412C-9623-A23A755665D7",
+                "title": "When You Need to Feel Something",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160270",
+                        "catalogName": "mdblist.160270"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/MTSLJSFp/When-You-Need-to-Feel-Something.png"
+              },
+              {
+                "id": "2D53B006-D31C-482E-B676-08B26E80F4E8",
+                "title": "Tales of the Heart",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160273",
+                        "catalogName": "mdblist.160273"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/1tkPVtMy/Tales-of-the-Heart.png"
+              },
+              {
+                "id": "2D372A69-B10C-4BC6-87BF-FFA6FCE8C5F2",
+                "title": "Disney+ Live Action Movies",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.162280",
+                        "catalogName": "mdblist.162280"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/kXHvJtYG/Disney-Live-Action.png"
+              },
+              {
+                "id": "70549204-E57F-4A3D-9668-DDF2CCB72679",
+                "title": "Letterboxd's Top 250 Horror",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160265",
+                        "catalogName": "mdblist.160265"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/50VrWVkR/Letterboxd-Top-250-Horror.png"
+              },
+              {
+                "id": "EDFAD2A5-D502-471E-9E6B-B4F355817CA5",
+                "title": "The World of Attenborough",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "movie",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160263",
+                        "catalogName": "mdblist.160263"
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "aiometadatafortheweebs.midnightignite.me",
+                        "type": "series",
+                        "baseUrl": "https://aiometadatafortheweebs.midnightignite.me/stremio/6aab77e5-d506-4d93-af80-017a3cd8f4fa",
+                        "catalogId": "mdblist.160264",
+                        "catalogName": "mdblist.160264"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/NMcnvczG/The-World-of-Attenborough.png"
+              }
+            ],
+            "hideTitle": false
+          }
+        }
+      }
+    }
+  ]
+}
